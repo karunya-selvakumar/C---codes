@@ -1,2 +1,2 @@
-# Exception-in-C-
-C++ programs demonstrating exception handling concepts and usage
+# C---codes-
+C++ programs demonstrating various concepts
